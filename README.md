@@ -1,3 +1,3 @@
 # Music-Generation-Using-BiLSTM
 
-This Project was created for my course project for my CSE0471 - Applied Deep Learning course.
+This was my course project for CSE0471 - Applied Deep Learning course in Istanbul Kultur University.
